@@ -1,0 +1,4 @@
+base:
+  '*':
+    - htop
+    - default.tools
